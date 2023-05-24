@@ -1,0 +1,32 @@
+# Unity generated #
+Temp/
+Library/
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
+Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated #
+ExportedObj/
+obj/
+*.svd
+*.user
+*.booproj
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.userprefs
+*.dll
+*.mpdb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+*.vsidx
+*.log
